@@ -1,0 +1,11 @@
+{
+  "name": "Maya Ultra AI Assistant",
+  "description": "High-end Translucent Glassmorphism Android AI Assistant with Bengali voice communication, Neon Glowing Pulse Core, and 85 functional capabilities with complete Kotlin Jetpack Compose source.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
